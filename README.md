@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love solving co
 - ⚡ Fun fact: I enjoy hiking and exploring new places
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: Python 易语言
+- Programming Languages: Python, 易语言
 - Frameworks: Django, Flask, React
 - Tools: Git, VSCode, 易语言
 - Databases: MySQL, MsSQL
