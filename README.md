@@ -1,5 +1,5 @@
 # Hello, I'm WJL-PY 👋
-
+这是我学会python后的第一个作品，灵感来源于火车站的大屏幕，新手制作，缺点很多，不喜勿喷！
 Welcome to my GitHub profile! I'm passionate about coding, and I love solving complex problems with elegant solutions. Here's a bit about me:
 
 ## 🧑‍💻 About Me
